@@ -1,0 +1,18 @@
+# Compiled C executables
+PRA/c
+PRA/l
+PRA/r
+PRA/s
+arrays/arr
+arrays/largest
+functions/fp
+rect
+recursion/count
+recursion/fact
+recursion/m
+recursion/num
+recursion/power
+recursion/sd
+recursion/sum
+strings/dup
+strings/r
