@@ -16,3 +16,46 @@ recursion/sd
 recursion/sum
 strings/dup
 strings/r
+
+# basics_problems executables
+basics_problems/l
+basics_problems/p
+
+# functions executables
+functions/p
+
+# loops executables
+loops/b
+loops/c
+loops/d
+loops/f
+loops/w
+
+# patterns executables
+patterns/p
+
+# strings executables
+strings/p
+
+# switch_case executables
+switch_case/a
+switch_case/s
+
+# ternary_problems executables
+ternary_problems/n
+ternary_problems/s
+
+basics_problems/l
+basics_problems/p
+functions/p
+loops/b
+loops/c
+loops/d
+loops/f
+loops/w
+patterns/p
+strings/p
+switch_case/a
+switch_case/s
+ternary_problems/n
+ternary_problems/s
